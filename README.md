@@ -36,7 +36,7 @@ The system functions as a modular analytical engine, utilizing nested data struc
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/TradeRoute.git
+git clone https://github.com/Pratap-Raju/TradeRoute.git
 cd TradeRoute
 ```
 
@@ -47,7 +47,7 @@ Ensure all `.txt` data files remain in the root directory so the engine can pars
 ### 3️⃣ Run the Analysis
 
 ```bash
-python Pratap_Kolukuluri_GlobalTradeAnalysis.py
+python TradeRoute.py
 ```
 
 ---
